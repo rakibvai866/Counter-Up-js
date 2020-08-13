@@ -1,0 +1,21 @@
+Frist of all
+The following js files need to be added to your html file
+
+1. jquery.counterup.min.js
+2. waypoints.min.js
+
+Now copy this jquery code and paste it into your jquery file
+    
+$(function() {
+
+    $('.counter').counterUp({
+                delay: 10,
+                time: 1000
+     });
+     
+});
+
+Now,
+The class name of the span tag will be .counter 
+
+example : <span class="counter">1,234,567</span>
