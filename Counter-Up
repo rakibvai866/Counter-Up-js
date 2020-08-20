@@ -16,6 +16,6 @@ $(function() {
 });
 
 Now,
-The class name of the span tag will be > counter 
+The class name of the span tag will be >> .counter 
 
 example : <span class="counter">1,234,567</span>
